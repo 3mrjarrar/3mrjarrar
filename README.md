@@ -22,7 +22,17 @@ Gaming, coding, exploring.
 
 ## connect
 
-<img src="./assets/social.svg" alt="Social links" width="100%" />
+<p align="center">
+  <code>$ open connections/</code>
+</p>
+
+<p align="center">
+  <a href="https://github.com/3mrjarrar"><img src="./assets/connect-github.svg" alt="GitHub" width="18%" /></a>
+  <a href="https://www.linkedin.com/in/amr-jarrar-030023348"><img src="./assets/connect-linkedin.svg" alt="LinkedIn" width="18%" /></a>
+  <a href="https://www.instagram.com/amr__jarrar/"><img src="./assets/connect-instagram.svg" alt="Instagram" width="18%" /></a>
+  <a href="https://www.facebook.com/amr.m.jarrar"><img src="./assets/connect-facebook.svg" alt="Facebook" width="18%" /></a>
+  <a href="mailto:amrjarrar10@gmail.com"><img src="./assets/connect-email.svg" alt="Email" width="18%" /></a>
+</p>
 
 
 <p align="center">
