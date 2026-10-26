@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 220" role="img" aria-labelledby="title desc">
+<title id="title">Terminal introduction</title><desc id="desc">Terminal window showing a short introduction.</desc>
+<rect width="1200" height="220" rx="14" fill="#0b1014" stroke="#1e3a46"/><rect x="1" y="1" width="1198" height="42" rx="13" fill="#101a21"/>
+<circle cx="24" cy="22" r="5" fill="#fb7185"/><circle cx="42" cy="22" r="5" fill="#facc15"/><circle cx="60" cy="22" r="5" fill="#4ade80"/><text x="90" y="28" fill="#64748b" font-family="monospace" font-size="14">profile.sh</text>
+<text x="34" y="82" fill="#67e8f9" font-family="monospace" font-size="17">$ cat about.txt</text><text x="34" y="116" fill="#e2e8f0" font-family="monospace" font-size="17">&gt; Hi, I’m Amr — a software engineer who enjoys turning</text><text x="34" y="145" fill="#e2e8f0" font-family="monospace" font-size="17">  thoughtful ideas into simple, dependable products.</text><text x="34" y="183" fill="#67e8f9" font-family="monospace" font-size="17">$ echo $STATUS</text><text x="210" y="183" fill="#4ade80" font-family="monospace" font-size="17">building...</text><text x="340" y="183" fill="#67e8f9" font-family="monospace" font-size="17">▮</text>
+</svg>
