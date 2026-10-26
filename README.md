@@ -15,10 +15,7 @@
 ## about.me
 
 ```text
-I turn ideas into reliable, usable software.
-
-My focus is building clean web experiences and backend services,
-with Java, React, JavaScript, HTML, CSS, and PostgreSQL.
+Gaming, coding, exploring.
 ```
 
 <img src="./assets/stack.svg" alt="Technology stack" width="100%" />
