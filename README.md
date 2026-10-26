@@ -10,7 +10,7 @@
   <a href="mailto:amrjarrar10@gmail.com"><img src="https://img.shields.io/badge/Email-amrjarrar10%40gmail.com-0b1014?style=flat-square&logo=gmail&logoColor=67e8f9&labelColor=111827" alt="Email" /></a>
 </p>
 
-<img src="./assets/terminal.svg" alt="Terminal introduction" width="100%" />
+<!-- <img src="./assets/terminal.svg" alt="Terminal introduction" width="100%" /> -->
 
 ## about.me
 
