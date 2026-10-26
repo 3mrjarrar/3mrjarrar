@@ -22,11 +22,8 @@ Gaming, coding, exploring.
 
 ## connect
 
-## connect
-
 <img src="./assets/social.svg" alt="Social links" width="100%" />
 
-[GitHub](https://github.com/3mrjarrar) · [LinkedIn](https://www.linkedin.com/in/amr-jarrar-030023348) · [Instagram](https://www.instagram.com/amr__jarrar/) · [Facebook](https://www.facebook.com/amr.m.jarrar) · [Email](mailto:amrjarrar10@gmail.com)
 
 <p align="center">
   <sub>Building ideas into software.</sub>
