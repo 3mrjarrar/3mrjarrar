@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 190" role="img" aria-labelledby="title desc">
+<title id="title">Technology stack</title><desc id="desc">Technology stack displayed as terminal-style badges.</desc>
+<rect width="1200" height="190" rx="14" fill="#0b1014" stroke="#1e3a46"/><text x="34" y="42" fill="#67e8f9" font-family="monospace" font-size="17">$ ls tech-stack/</text>
+<g font-family="monospace" font-size="16"><g fill="#111c23" stroke="#245263"><rect x="34" y="70" width="158" height="58" rx="9"/><rect x="210" y="70" width="158" height="58" rx="9"/><rect x="386" y="70" width="174" height="58" rx="9"/><rect x="578" y="70" width="158" height="58" rx="9"/><rect x="754" y="70" width="158" height="58" rx="9"/><rect x="930" y="70" width="158" height="58" rx="9"/></g><g fill="#e2e8f0"><text x="70" y="105">☕ Java</text><text x="245" y="105">⚛ React</text><text x="412" y="105">⌘ JavaScript</text><text x="610" y="105">&lt;/&gt; HTML</text><text x="785" y="105">{ } CSS</text><text x="961" y="105">▣ PostgreSQL</text></g></g>
+</svg>
